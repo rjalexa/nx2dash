@@ -1,0 +1,20 @@
+name: dash
+channels:
+- defaults
+- conda-forge
+dependencies:
+- colour=0.1.5
+- dash-html-components=2.0.0
+- matplotlib-base=3.5.1
+- pip=22.0.4
+- ipywidgets=7.6.5
+- libopenblas=0.3.18
+- plotly_express=0.4.1
+- jupyterlab=3.3.0
+- dash-core-components=2.0.0
+- networkx=2.6.3
+- pylint=2.12.2
+- dash_cytoscape=0.2.0
+- pygraphviz=1.9
+- black=22.1.0
+
